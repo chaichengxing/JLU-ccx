@@ -15,7 +15,7 @@ contact: #联系方式连接等3~5行
 - text: "15567007180"
   href: ''
   icon: 'icons/phone.svg'
-- text: "黑龙江绥化"
+- text: "重庆巫山"
   href: ''
   icon: 'icons/location.svg'
 #- text: "GitHubID"
